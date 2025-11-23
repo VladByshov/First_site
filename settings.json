@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.rendererType": "dom",
+    "editor.experimental.useXterm": false,
+    "window.rendering.mode": "dom"
+}
